@@ -39,6 +39,11 @@ body{
 
 }
 
+.App-Contact{
+  padding: 10px;
+  background-color: #E2E2E2;
+  margin: 10px;
+}
 
 
 .App-intro {
